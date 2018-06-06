@@ -7,4 +7,4 @@
 
 ## 示例
 
-![](https://www.myting.net/bing.php)
+![](https://www.myting.net/projects/bing.php)
